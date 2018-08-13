@@ -33,7 +33,7 @@
     "test": "jasmine"
   },
   "dependencies": {
-    "ajv": "^5.1.4",
+    "ajv": "^6.5.2",
     "baconjs": "^0.7.92",
     "express": "^4.15.3",
     "jsonpath": "^0.2.11",
